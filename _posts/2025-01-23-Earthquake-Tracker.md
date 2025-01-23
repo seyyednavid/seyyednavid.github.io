@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Earthquake Tracking Dashboard Using Tableau
-image: "/img//posts/Earthquake Tracking.jpg"
+image: "/img/posts/Earthquake Tracking.jpg"
 tags: [Tableau, Data Viz]
 ---
 

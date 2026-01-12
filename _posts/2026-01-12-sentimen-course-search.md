@@ -66,7 +66,6 @@ The final system:
 - Demonstrates clear improvements when moving from course-level to section-level indexing  
 - Achieves the best results using **weighted BERT embeddings**
 
-
 The deployed application allows users to interactively explore these results in real time.
 
 ---
@@ -151,6 +150,9 @@ Instead of embedding the user query once, we:
 3. Combine both embeddings using weighted averaging  
 
 This reinforces the core semantic intent while preserving contextual relevance, improving retrieval quality for short or ambiguous queries.
+
+This approach proved especially effective for short, ambiguous, or high-level user queries.
+
 
 ___
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Building a Semantic Course Search Engine Using Vector Databases
+title: Building a Semantic Course Search Engine Using Weighted BERT Embeddings
 image: "/posts/semantic-course-search-title-img.png"
 tags: [NLP, Semantic Search, Vector Databases, BERT, Pinecone, Streamlit]
 ---
 
 In this project, we build a **production-style semantic search system** for online course content.  
-The system allows users to search for relevant course sections using **natural language queries**, retrieving results based on **semantic meaning rather than keywords**.
+The system allows users to search for relevant course sections using **natural language queries**, retrieving results based on **semantic meaning rather than keywords**, powered by **weighted BERT embeddings** and a vector database.
 
 We explore multiple embedding strategies and data granularities, evaluate their effectiveness, and deploy the best-performing approach as an **interactive web application**.
 
@@ -36,9 +36,9 @@ Traditional keyword-based search systems struggle to surface relevant content wh
 
 Examples of such queries include:
 
-- *“Where can I learn about technical indicators?”*  
-- *“Which section explains MACD and RSI?”*  
-- *“I want material on support and resistance levels”*
+- *“AI applications for business success”*  
+- *“Regression in Python”*  
+- *“Data science course”*
 
 Answering these accurately requires understanding **semantic intent**, not just matching words.
 
@@ -64,7 +64,8 @@ The final system:
 - Consistently retrieves highly relevant course sections  
 - Outperforms keyword search for conceptual queries  
 - Demonstrates clear improvements when moving from course-level to section-level indexing  
-- Achieves the best results using **weighted BERT-based embeddings**  
+- Achieves the best results using **weighted BERT embeddings**
+
 
 The deployed application allows users to interactively explore these results in real time.
 
@@ -138,6 +139,8 @@ This design allows fast and scalable semantic retrieval.
 ___
 
 # 05. Weighted Semantic Querying <a name="weighted-querying"></a>
+
+This weighted embedding strategy represents the key improvement over standard semantic search and is the method used in the deployed application.
 
 The final approach introduces **weighted semantic query embeddings**.
 

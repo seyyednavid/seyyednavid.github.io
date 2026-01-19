@@ -109,7 +109,7 @@ ___
 
 # 03. Document Ingestion Pipeline <a name="rag-ingestion"></a>
 
-![Ingestion Flow](/img/posts/ingestion-flow.jpg)
+![Ingestion Flow](/img/posts/Document ingestion flow.jpg)
 
 The ingestion workflow includes:
 

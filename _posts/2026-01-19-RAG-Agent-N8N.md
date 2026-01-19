@@ -95,7 +95,7 @@ ___
 
 The system follows a classic Retrieval-Augmented Generation architecture:
 
-![Architecture]("/posts/architecture.jpg")
+![Architecture](/img/posts/architecture.jpg)
 
 At a high level:
 
@@ -109,7 +109,7 @@ ___
 
 # 03. Document Ingestion Pipeline <a name="rag-ingestion"></a>
 
-![Ingestion Flow]("/posts/ingestion-flow.jpg")
+![Ingestion Flow](/img/posts/ingestion-flow.jpg)
 
 The ingestion workflow includes:
 
@@ -124,7 +124,7 @@ ___
 
 # 04. Query & Retrieval Pipeline <a name="rag-query"></a>
 
-![Query Flow]("/posts/query-flow.jpg")
+![Query Flow](/img/posts/query-flow.jpg)
 
 At query time:
 
@@ -141,7 +141,7 @@ ___
 
 The system is exposed through a **public n8n-hosted chat interface**:
 
-![Chat UI]("/posts/chat-ui.jpg")
+![Chat UI](/img/posts/chat-ui.jpg)
 
 Example query:
 

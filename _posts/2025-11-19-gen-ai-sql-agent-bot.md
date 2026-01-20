@@ -15,7 +15,16 @@ We achieve this by combining:
 * A carefully scoped database wrapper  
 * A purpose-built SQL system prompt  
 * A set of SQL-aware tools  
-* A modern LLM configured as an agent  
+* A modern LLM configured as an agent
+  
+---
+
+## 🔗 Project Links
+
+- **GitHub Repository:**  [https://github.com/seyyednavid/SQl-Agent](https://github.com/seyyednavid/SQl-Agent)
+- **Live Application / Demo:**  [https://sql-agent-production-4f10.up.railway.app/](https://sql-agent-production-4f10.up.railway.app/)
+
+---
 
 # Table of Contents
 
@@ -557,3 +566,4 @@ Potential future enhancements include:
 This project provides a strong foundation for an AI-powered, self-serve analytics layer on top of ABC Grocery’s SQL data, with safety and correctness built in from the ground up.
 
 ___
+

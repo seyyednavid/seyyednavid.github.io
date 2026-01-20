@@ -11,6 +11,13 @@ We begin by building a core RAG system that loads internal documents, chunks the
 
 We then extend the assistant by **adding conversational memory**, allowing the model to maintain a short-term personalised dialogue while still respecting strict grounding rules.
 
+## 🔗 Project Links
+
+- **GitHub Repository:** [https://github.com/your-username/your-repo](https://github.com/seyyednavid/Grocery-RAG-Chatbot)
+- **Live Application / Demo:** [https://your-live-app-link.com](https://grocery-rag-chatbot-production.up.railway.app/)
+
+---
+
 # Table of Contents
 
 - [00. Project Overview](#overview-main)
@@ -429,3 +436,4 @@ Potential future enhancements include:
 This project forms a strong foundation for a scalable enterprise help-desk assistant powered by Retrieval Augmented Generation.
 
 ___
+

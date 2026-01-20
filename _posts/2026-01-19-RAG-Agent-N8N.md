@@ -11,6 +11,12 @@ The system uses **n8n** for orchestration, **Pinecone** for vector storage, and 
 
 ---
 
+## 🔗 Project Links
+
+- **GitHub Repository:**  [https://github.com/seyyednavid/ios18-rag-agent](https://github.com/seyyednavid/ios18-rag-agent)
+
+---
+
 # Table of Contents
 
 - [00. Project Overview](#overview-main)

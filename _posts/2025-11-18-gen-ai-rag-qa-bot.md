@@ -13,8 +13,8 @@ We then extend the assistant by **adding conversational memory**, allowing the m
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** [https://github.com/your-username/your-repo](https://github.com/seyyednavid/Grocery-RAG-Chatbot)
-- **Live Application / Demo:** [https://your-live-app-link.com](https://grocery-rag-chatbot-production.up.railway.app/)
+- **GitHub Repository:** [https://github.com/seyyednavid/Grocery-RAG-Chatbot](https://github.com/seyyednavid/Grocery-RAG-Chatbot)
+- **Live Application / Demo:** [https://grocery-rag-chatbot-production.up.railway.app/](https://grocery-rag-chatbot-production.up.railway.app/)
 
 ---
 
@@ -436,4 +436,5 @@ Potential future enhancements include:
 This project forms a strong foundation for a scalable enterprise help-desk assistant powered by Retrieval Augmented Generation.
 
 ___
+
 

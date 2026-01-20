@@ -10,6 +10,15 @@ The system allows users to search for relevant course sections using **natural l
 
 We explore multiple embedding strategies and data granularities, evaluate their effectiveness, and deploy the best-performing approach as an **interactive web application**.
 
+---
+
+## 🔗 Project Links
+
+- **GitHub Repository:**  [https://github.com/seyyednavid/Semantic-course-search](https://github.com/seyyednavid/Semantic-course-search)
+- **Live Application / Demo:**  [https://semantic-course-search6264.streamlit.app/](https://semantic-course-search6264.streamlit.app/)
+
+---
+
 # Table of Contents
 
 - [00. Project Overview](#overview-main)

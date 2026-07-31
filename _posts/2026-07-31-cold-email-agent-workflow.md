@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Human-in-the-Loop Cold Email Agent Workflow
-image: "/posts/cold-email-agent-workflow-title.png"
+image: "/img/posts/01-lead-sender.jpg"
 tags: [Agentic AI, OpenAI Agents SDK, MCP, Tavily, Gmail API, Gradio]
 ---
 
@@ -96,8 +96,6 @@ ___
 
 The system separates the user interface, agent workflow, external research, validation, and Gmail draft creation.
 
-![Cold email agent architecture](/img/posts/cold-email-agent-architecture.png)
-
 At a high level:
 
 1. The user enters lead and sender details in Gradio
@@ -143,7 +141,7 @@ ___
 
 The writer agent combines the lead information, research findings, sender offer, and credibility notes to generate a concise cold email.
 
-![Generated cold email draft](/img/posts/cold-email-agent-generated-draft.jpg)
+![Generated cold email draft and review results](/img/posts/02-generated-email-draft.jpg)
 
 The reviewer evaluates the message for:
 
@@ -154,9 +152,7 @@ The reviewer evaluates the message for:
 - Strength and placement of the call to action
 - Generic phrasing and formatting issues
 
-The application displays the review results alongside the draft so the user can understand why a message is or is not ready.
-
-![Email review and readiness decision](/img/posts/cold-email-agent-review-decision.jpg)
+The application displays the review results alongside the draft so the user can understand why a message is or is not ready. Both the generated email and its review decision are shown in the screenshot above.
 
 ___
 
@@ -181,11 +177,11 @@ ___
 
 After the user reviews and approves the final content, the application uses the **Gmail API** to create a draft.
 
-![Gmail draft creation status](/img/posts/cold-email-agent-gmail-status.jpg)
+![Gmail draft creation status](/img/posts/03-gmail-draft-created.jpg)
 
 The generated message appears in the user's Gmail Drafts folder, where it can be checked again, edited, scheduled, or deleted before sending.
 
-![Cold email draft in Gmail](/img/posts/cold-email-agent-gmail-draft.jpg)
+![Cold email draft in Gmail](/img/posts/04-gmail-draft-status.jpg)
 
 Using Gmail drafts provides a reliable boundary between AI-assisted content creation and the external action of sending an email.
 
@@ -212,7 +208,7 @@ ___
 
 The Gradio interface provides a guided workflow for entering lead and sender information.
 
-![Lead and sender input form](/img/posts/cold-email-agent-input.jpg)
+![Lead and sender input form](/img/posts/01-lead-sender.jpg)
 
 The user provides:
 

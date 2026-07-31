@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Human-in-the-Loop Cold Email Agent Workflow
-image: "/img/posts/01-lead-sender.jpg"
+image: "/img/posts/cold-email-agent-workflow-corrected.png"
 tags: [Agentic AI, OpenAI Agents SDK, MCP, Tavily, Gmail API, Gradio]
 ---
 

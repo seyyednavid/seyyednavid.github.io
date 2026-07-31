@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced RAG System with Evaluation and Optimisation
-image: "posts/advanced-rag-system-title-combined.png"
+image: "/posts/advanced-rag-system-title-combined.png"
 tags: [RAG, Generative AI, Hybrid Search, BM25, ChromaDB, LLM Evaluation]
 ---
 

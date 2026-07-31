@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agentic Software Engineering Platform
-image: "/img/posts/agentic-platform-architecture.png"
+image: "/posts/agentic-platform-architecture.png"
 tags: [Agentic AI, CrewAI, AWS, ECS Fargate, Flask, Software Engineering]
 ---
 

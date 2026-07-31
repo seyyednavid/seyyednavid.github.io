@@ -9,13 +9,19 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Navid Hejazi
-description: "Hi I'm Navid, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "I’m a Full-Stack Developer with commercial experience building Python applications, real-time software–hardware integrations, and systems used by real customers.
+
+Alongside my professional work, I build AI applications focused on Retrieval-Augmented Generation (RAG), agentic workflows, and intelligent automation. My portfolio includes a multi-agent software engineering platform deployed on AWS, an Advanced RAG system with hybrid retrieval and evaluation, and end-to-end AI automation workflows.
+
+I’m currently seeking Junior AI Engineer, AI Application Developer, and Agentic AI Developer opportunities where I can combine practical software engineering experience with applied AI.
+"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: Full-Stack Developer Building AI-Powered Applications
+ <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
 resume_url: /docs/NavidHejazi-CV-June.pdf
 avatar_image: /img/profile_picture.jpg

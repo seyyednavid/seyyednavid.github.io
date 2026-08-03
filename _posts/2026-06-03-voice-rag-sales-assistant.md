@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Voice RAG Sales Assistant for E-commerce Product Support
-image: "/posts/01-elevenlabs-agent.png"
+image: "/posts/Voice-RAG-Sales-Assistantt.png"
 tags: [Voice AI, RAG, n8n, Supabase, Twilio, ElevenLabs, OpenAI Embeddings]
 ---
 

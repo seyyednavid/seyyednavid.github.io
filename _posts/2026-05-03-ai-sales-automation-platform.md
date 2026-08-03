@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Sales Automation Platform
-image: "/posts/demo-thumbnail.jpg"
+image: "/posts/AI-Sales-Automation-Platform.png"
 tags: [Agentic AI, n8n, Sales Automation, Pipedrive, Gmail, Google Calendar, Voice AI]
 ---
 

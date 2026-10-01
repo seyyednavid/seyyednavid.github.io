@@ -376,6 +376,6 @@ This project demonstrates a practical **AI Engineering workflow** that combines 
 
 ## Technology Stack
 
-`Python` · `Gradio` · `OpenAI API` · `GPT-4o Mini` · `GPT-4o Mini Transcribe` · `Hugging Face Transformers` · `Whisper` · `Qwen 2.5` · `Ollama` · `PyTorch` · `FFmpeg` · `Markdown`
+`Python` · `Gradio` · `OpenAI API` · `GPT-4o Mini` · `GPT-4o Mini Transcribe` · `Hugging Face Transformers` · `Whisper` · `Qwen 2.5` · `Ollama` · `Speech-to-Text` · `LLM Summarisation`
 
 ---

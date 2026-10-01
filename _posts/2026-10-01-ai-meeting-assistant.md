@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Meeting Assistant
-image: "/img/posts/ai-meeting-assistant.jpg"
+image: "posts/ai-meeting-assistant.jpg"
 tags: [AI Engineering, Speech-to-Text, LLM, OpenAI, Whisper, Ollama, Gradio]
 ---
 
